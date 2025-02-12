@@ -2,7 +2,7 @@
 <h3 align="center">A Software Engineer from Indonesia.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"
 
-- 🌱 I’m currently learning **Laravel and R**
+- 🌱 I’m currently learning **NextJS and Golang**
 
 - 📫 How to reach me **mjonathann.03@gmail.com**
 
